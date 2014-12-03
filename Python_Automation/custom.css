@@ -1,0 +1,49 @@
+<style>
+
+body {
+	background: #333;
+	color: #555555;
+}
+
+#notebook_panel {
+    background: #333;
+    /*color: #000000;*/
+}
+
+a {
+	color: rgb(233, 0, 41);
+}
+
+/* unvisited link */
+a:link {
+    color: rgb(233, 0, 41);
+}
+
+/* visited link */
+a:visited {
+    color: rgb(137, 21, 24);
+}
+
+div  #notebook { /* centre the content*/ 
+    background: #fff; /* white background for content*/ 
+    /*width: 1000px;*/
+    /* margin: auto; */
+	border-left: 68px solid #555555;
+    /* padding-left: 1em; */
+}
+
+h1 {
+	color: rgb(233, 0, 41);
+}
+
+h2 {
+	color: rgb(233, 0, 41);
+}
+
+h3 {
+	color: rgb(233, 0, 41);
+}
+
+
+
+</style>
