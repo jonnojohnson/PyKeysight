@@ -1,0 +1,3804 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Tbl>
+    <ID>306302</ID>
+    <PID>306302</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>PCI Express</N>
+    <V>PCI Express</V>
+  </Tbl>
+  <Tbl>
+    <ID>306303</ID>
+    <PID>306302</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Product Infos</N>
+    <V>Product Infos</V>
+  </Tbl>
+  <Tbl>
+    <ID>306304</ID>
+    <PID>306303</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Product Number</N>
+    <V>PCI Express</V>
+  </Tbl>
+  <Tbl>
+    <ID>306305</ID>
+    <PID>306303</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Serial Number</N>
+    <V />
+  </Tbl>
+  <Tbl>
+    <ID>306306</ID>
+    <PID>306303</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Comment</N>
+    <V />
+  </Tbl>
+  <Tbl>
+    <ID>306307</ID>
+    <PID>306303</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Creation Date</N>
+    <V>635828641888815562</V>
+  </Tbl>
+  <Tbl>
+    <ID>306308</ID>
+    <PID>306303</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Last Change Date</N>
+    <V>635828704204698621</V>
+  </Tbl>
+  <Tbl>
+    <ID>306309</ID>
+    <PID>306303</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Expert Mode</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306310</ID>
+    <PID>306303</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Product Info Properties</N>
+    <V>Product Info Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>207982</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>PCIe1 M8048A ISI Channel Emulation</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208278</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane14</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306311</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>ISI Channel Box</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.Gen3AsicIsiTraceE] M8041A_0G5</V>
+  </Tbl>
+  <Tbl>
+    <ID>208259</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Power Cycle max. Retries for LB Training</N>
+    <V>3</V>
+  </Tbl>
+  <Tbl>
+    <ID>208295</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane15</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207954</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Product Type</N>
+    <V>Add-In Card</V>
+  </Tbl>
+  <Tbl>
+    <ID>208274</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane10</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208309</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Compliance Mode</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208286</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane6</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208256</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Power Cycle Settling Time</N>
+    <V>3 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>207960</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use 3.5 dB Link</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>207964</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>PCIe Switch</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306312</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>PCIe2 M8048A ISI Channel</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.M8048AIsiChannelE] Ch7_24inch</V>
+  </Tbl>
+  <Tbl>
+    <ID>208273</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane9</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207984</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Embed Replica Channel</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208287</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane7</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208284</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane4</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208244</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use -6.0 dB De Emphasis</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208243</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use -3.5 dB De Emphasis</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>207957</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Data Rate 2.5 GBit/s</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208292</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane12</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208281</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane1</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208293</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane13</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208250</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Power Switch Channel Number</N>
+    <V>1</V>
+  </Tbl>
+  <Tbl>
+    <ID>207963</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use CBB riser rev.3</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>207956</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Clock Architecture</N>
+    <V>Common Ref Clock</V>
+  </Tbl>
+  <Tbl>
+    <ID>306313</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Tx Power Level</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.PowerLevelE] Full</V>
+  </Tbl>
+  <Tbl>
+    <ID>208241</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Transmitter RefClock SSC</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208285</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane5</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208245</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use External 100MHz Reference Clock Source</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208263</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Custom BER Reader supports Bit Count</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306314</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>PCIe BER Reader</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.PcieBerReaderE] JBERT_Analyser</V>
+  </Tbl>
+  <Tbl>
+    <ID>207983</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>PCIe2 M8048A ISI Channel Emulation</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207972</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use PCIe1 Transfer Function</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208288</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane8</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207973</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use PCIe2 Transfer Function</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208290</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane10</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208279</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane15</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207958</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Data Rate 5.0 GBit/s</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306315</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>PCIe1 M8048A ISI Channel</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.M8048AIsiChannelE] Ch7_24inch</V>
+  </Tbl>
+  <Tbl>
+    <ID>208262</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>BER Address</N>
+    <V />
+  </Tbl>
+  <Tbl>
+    <ID>208253</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Power Cycle Off On Duration</N>
+    <V>3 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>208302</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use Lane 0 Calibration for all Lanes</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208275</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane11</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207955</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Product Version</N>
+    <V>3.0</V>
+  </Tbl>
+  <Tbl>
+    <ID>208277</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane13</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208247</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use Power Switch Automation</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207967</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use Long Channel</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208280</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane0</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>207974</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use PCIe3 Tranfser Function</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207961</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use 6.0 dB Link</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208291</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane11</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207966</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use Short Channel</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208289</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane9</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207965</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use No Channel</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208283</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane3</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208272</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane8</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207959</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Data Rate 8.0 GBit/s</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208270</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane6</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208271</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane7</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208268</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane4</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208269</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane5</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208266</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane2</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208267</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane3</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208264</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane0</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208265</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane1</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208294</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane14</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208282</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>TxLane2</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>207962</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use CBB rev.2</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208276</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Lane12</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306316</ID>
+    <PID>306310</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Ref Clock Multiplier</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.ClockMultTypeE] Internal</V>
+  </Tbl>
+  <Tbl>
+    <ID>306317</ID>
+    <PID>306302</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Product Properties</N>
+    <V>Product Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306318</ID>
+    <PID>306317</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>208314</ID>
+    <PID>306318</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Current Procedure Set Index</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>208319</ID>
+    <PID>306318</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>208310</ID>
+    <PID>306318</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Show Config Dialog</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208309</ID>
+    <PID>306318</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Compliance Mode</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306351</ID>
+    <PID>306302</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Product Procedure Set</N>
+    <V>Product Procedure Set</V>
+  </Tbl>
+  <Tbl>
+    <ID>306352</ID>
+    <PID>306351</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>300560</ID>
+    <PID>306352</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306353</ID>
+    <PID>306351</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Calibration</N>
+    <V>Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306354</ID>
+    <PID>306353</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>300568</ID>
+    <PID>306354</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306355</ID>
+    <PID>306354</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Jitter Unit</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.JitterUnitE] Time</V>
+  </Tbl>
+  <Tbl>
+    <ID>306356</ID>
+    <PID>306353</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>8.0 GT/s</N>
+    <V>8.0 GT/s</V>
+  </Tbl>
+  <Tbl>
+    <ID>306357</ID>
+    <PID>306356</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>300576</ID>
+    <PID>306357</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306358</ID>
+    <PID>306357</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Scope Connection for Calibration</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.ConnectionE] Chan_1_3_Direct_Connect</V>
+  </Tbl>
+  <Tbl>
+    <ID>306359</ID>
+    <PID>306356</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Lane0</N>
+    <V>Lane0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306360</ID>
+    <PID>306359</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>300584</ID>
+    <PID>306360</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306361</ID>
+    <PID>306359</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Pre-Shoot Calibration</N>
+    <V>Pre-Shoot Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306362</ID>
+    <PID>306361</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306363</ID>
+    <PID>306362</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306364</ID>
+    <PID>306362</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>300618</ID>
+    <PID>306362</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>300605</ID>
+    <PID>306362</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306365</ID>
+    <PID>306359</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>De-Emphasis Calibration</N>
+    <V>De-Emphasis Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306366</ID>
+    <PID>306365</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306367</ID>
+    <PID>306366</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306368</ID>
+    <PID>306366</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>300959</ID>
+    <PID>306366</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>300946</ID>
+    <PID>306366</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306369</ID>
+    <PID>306359</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Equalization Preset Calibration</N>
+    <V>Equalization Preset Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306370</ID>
+    <PID>306369</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306371</ID>
+    <PID>306370</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306372</ID>
+    <PID>306370</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>301295</ID>
+    <PID>306370</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>301282</ID>
+    <PID>306370</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>301273</ID>
+    <PID>306370</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Differential Voltage</N>
+    <V>800 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>306373</ID>
+    <PID>306359</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Equalization Custom Preset Calibration</N>
+    <V>Equalization Custom Preset Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306374</ID>
+    <PID>306373</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306375</ID>
+    <PID>306374</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306376</ID>
+    <PID>306374</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>301639</ID>
+    <PID>306374</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>301626</ID>
+    <PID>306374</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>301617</ID>
+    <PID>306374</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Differential Voltage</N>
+    <V>800 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>301618</ID>
+    <PID>306374</PID>
+    <T>BitifEye.ValiFrame.Base.VFStringArray1D</T>
+    <N>Custom Presets</N>
+    <V>6|-6</V>
+  </Tbl>
+  <Tbl>
+    <ID>306377</ID>
+    <PID>306359</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Random Jitter Calibration</N>
+    <V>Random Jitter Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306378</ID>
+    <PID>306377</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306379</ID>
+    <PID>306378</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306380</ID>
+    <PID>306378</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>301829</ID>
+    <PID>306378</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>301816</ID>
+    <PID>306378</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>301802</ID>
+    <PID>306378</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Number of averages for jitter measurement</N>
+    <V>1</V>
+  </Tbl>
+  <Tbl>
+    <ID>301805</ID>
+    <PID>306378</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Stop Random Jitter</N>
+    <V>5 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>301808</ID>
+    <PID>306378</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Random Jitter Step Size</N>
+    <V>1 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>306381</ID>
+    <PID>306359</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Sinusoidal Jitter Calibration</N>
+    <V>Sinusoidal Jitter Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306382</ID>
+    <PID>306381</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306383</ID>
+    <PID>306382</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306384</ID>
+    <PID>306382</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>302203</ID>
+    <PID>306382</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>302190</ID>
+    <PID>306382</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>302182</ID>
+    <PID>306382</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>CDR loop-bandwidth</N>
+    <V>50 kHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>302179</ID>
+    <PID>306382</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Number of averages for jitter measurement</N>
+    <V>1</V>
+  </Tbl>
+  <Tbl>
+    <ID>306385</ID>
+    <PID>306359</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>CBB rev. 3</N>
+    <V>CBB rev. 3</V>
+  </Tbl>
+  <Tbl>
+    <ID>306386</ID>
+    <PID>306385</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>302573</ID>
+    <PID>306386</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306387</ID>
+    <PID>306385</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>DM Sinusoidal Interference Calibration</N>
+    <V>DM Sinusoidal Interference Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306388</ID>
+    <PID>306387</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306389</ID>
+    <PID>306388</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306390</ID>
+    <PID>306388</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>302597</ID>
+    <PID>306388</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>302584</ID>
+    <PID>306388</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306391</ID>
+    <PID>306385</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Eye Height and Width Calibration</N>
+    <V>Eye Height and Width Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306392</ID>
+    <PID>306391</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306393</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306394</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>303007</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>302994</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>302949</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Optimize CTLE</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>302958</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>RJ for CTLE optimization</N>
+    <V>1.5 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>302961</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>DMSI for CTLE optimization</N>
+    <V>15 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>302952</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>CTLE Index</N>
+    <V>7</V>
+  </Tbl>
+  <Tbl>
+    <ID>302971</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Start DMSI</N>
+    <V>15 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>302974</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Stop DMSI</N>
+    <V>35 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>302980</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Start RJ</N>
+    <V>500 fs</V>
+  </Tbl>
+  <Tbl>
+    <ID>302983</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Stop RJ</N>
+    <V>2.5 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>302967</ID>
+    <PID>306392</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Number of Averages</N>
+    <V>8</V>
+  </Tbl>
+  <Tbl>
+    <ID>306395</ID>
+    <PID>306385</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Compliance Eye Calibration</N>
+    <V>Compliance Eye Calibration</V>
+  </Tbl>
+  <Tbl>
+    <ID>306396</ID>
+    <PID>306395</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306397</ID>
+    <PID>306396</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306398</ID>
+    <PID>306396</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>303663</ID>
+    <PID>306396</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>303650</ID>
+    <PID>306396</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>303626</ID>
+    <PID>306396</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Target Eye-Height</N>
+    <V>45 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>303629</ID>
+    <PID>306396</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Target Eye-Width</N>
+    <V>40.75 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>303642</ID>
+    <PID>306396</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Max Number of Search Steps</N>
+    <V>8</V>
+  </Tbl>
+  <Tbl>
+    <ID>303639</ID>
+    <PID>306396</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Number of Averages</N>
+    <V>8</V>
+  </Tbl>
+  <Tbl>
+    <ID>306399</ID>
+    <PID>306351</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Receiver</N>
+    <V>Receiver</V>
+  </Tbl>
+  <Tbl>
+    <ID>306400</ID>
+    <PID>306399</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>303810</ID>
+    <PID>306400</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306401</ID>
+    <PID>306400</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Jitter Unit</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.JitterUnitE] Time</V>
+  </Tbl>
+  <Tbl>
+    <ID>208247</ID>
+    <PID>306400</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use Power Switch Automation</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208250</ID>
+    <PID>306400</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Power Switch Channel Number</N>
+    <V>1</V>
+  </Tbl>
+  <Tbl>
+    <ID>208253</ID>
+    <PID>306400</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Power Cycle Off On Duration</N>
+    <V>3 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>208256</ID>
+    <PID>306400</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Power Cycle Settling Time</N>
+    <V>3 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>208259</ID>
+    <PID>306400</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Power Cycle max. Retries for LB Training</N>
+    <V>3</V>
+  </Tbl>
+  <Tbl>
+    <ID>306402</ID>
+    <PID>306399</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>8.0 GT/s</N>
+    <V>8.0 GT/s</V>
+  </Tbl>
+  <Tbl>
+    <ID>306403</ID>
+    <PID>306402</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>303818</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>208057</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Data Rate Deviation</N>
+    <V>0 ppm</V>
+  </Tbl>
+  <Tbl>
+    <ID>208005</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use CDR</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208014</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>CDR Loop Bandwidth</N>
+    <V>12 MHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>208048</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Peaking</N>
+    <V>1 dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>306404</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Analyzer Equalization</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieAnalyzerEqualizationE] _6dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>208228</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Pause before Auto-Align</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208223</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Relax Time</N>
+    <V>1 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>306405</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Link Training Mode</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.LoopbackModeE] JBERT_Link_Training</V>
+  </Tbl>
+  <Tbl>
+    <ID>306406</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>DUT Target Preset</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieTransmitterPresetE] P4</V>
+  </Tbl>
+  <Tbl>
+    <ID>208002</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Link Training Suite Settings File </N>
+    <V>C:\ProgramData\BitifEye\ValiFrame\Settings\PCIExpress3\Pcie3_8G_M8020A_Loopback.txt</V>
+  </Tbl>
+  <Tbl>
+    <ID>306407</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Default Link Training Lane Number for every Lane</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.DefaultLinkTrainingLaneNumberE] Auto</V>
+  </Tbl>
+  <Tbl>
+    <ID>208214</ID>
+    <PID>306403</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Suppress Loopback Training Messages</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306408</ID>
+    <PID>306402</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>CBB rev. 3</N>
+    <V>CBB rev. 3</V>
+  </Tbl>
+  <Tbl>
+    <ID>306409</ID>
+    <PID>306408</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>303826</ID>
+    <PID>306409</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306410</ID>
+    <PID>306408</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Lane0</N>
+    <V>Lane0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306411</ID>
+    <PID>306410</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>303843</ID>
+    <PID>306411</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>303830</ID>
+    <PID>306411</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use calibrated Preset</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306412</ID>
+    <PID>306411</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Generator Preset</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieTransmitterPresetE] P7</V>
+  </Tbl>
+  <Tbl>
+    <ID>303835</ID>
+    <PID>306411</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Pre Shoot</N>
+    <V>3.5 dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>303838</ID>
+    <PID>306411</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>De Emphasis</N>
+    <V>-6 dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>208166</ID>
+    <PID>306411</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Link Training Lane Number</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306413</ID>
+    <PID>306410</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Preset Compliance Test 2.8</N>
+    <V>Preset Compliance Test 2.8</V>
+  </Tbl>
+  <Tbl>
+    <ID>306414</ID>
+    <PID>306413</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306415</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306416</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>303895</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>303882</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>303871</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Enable Impairments for Link Training</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>303849</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Eye-Height</N>
+    <V>45 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>303852</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Eye-Width</N>
+    <V>40.75 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>303864</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Differential Mode Sinusoidal Interference</N>
+    <V>45.54 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>303861</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Random Jitter</N>
+    <V>1.45 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>303855</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Sinusoidal Jitter</N>
+    <V>12.5 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>303858</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Sinusoidal Jitter Frequency</N>
+    <V>100 MHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>303867</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>BER Measurement Duration</N>
+    <V>12.5 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>303870</ID>
+    <PID>306414</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Target BER </N>
+    <V>100E-6 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306417</ID>
+    <PID>306410</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Compliance Test 2.8</N>
+    <V>Compliance Test 2.8</V>
+  </Tbl>
+  <Tbl>
+    <ID>306418</ID>
+    <PID>306417</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306419</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306420</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>303955</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>303942</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>303931</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Enable Impairments for Link Training</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>303902</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Eye-Height</N>
+    <V>45 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>303905</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Eye-Width</N>
+    <V>40.75 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>303917</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Differential Mode Sinusoidal Interference</N>
+    <V>45.54 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>303914</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Random Jitter</N>
+    <V>1.45 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>303908</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Sinusoidal Jitter</N>
+    <V>12.5 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>303911</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Sinusoidal Jitter Frequency</N>
+    <V>100 MHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>306421</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>BER Mode</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.BerModeE] FixedTime</V>
+  </Tbl>
+  <Tbl>
+    <ID>303921</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>BER Measurement Duration</N>
+    <V>125 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>303924</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Allowed Bit Error</N>
+    <V>1</V>
+  </Tbl>
+  <Tbl>
+    <ID>303927</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Target BER</N>
+    <V>1E-12 </V>
+  </Tbl>
+  <Tbl>
+    <ID>303930</ID>
+    <PID>306418</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Confidence Level</N>
+    <V>63.2 %</V>
+  </Tbl>
+  <Tbl>
+    <ID>306422</ID>
+    <PID>306351</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Link Equalization</N>
+    <V>Link Equalization</V>
+  </Tbl>
+  <Tbl>
+    <ID>306423</ID>
+    <PID>306422</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>303964</ID>
+    <PID>306423</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>208247</ID>
+    <PID>306423</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use Power Switch Automation</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208250</ID>
+    <PID>306423</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Power Switch Channel Number</N>
+    <V>1</V>
+  </Tbl>
+  <Tbl>
+    <ID>208253</ID>
+    <PID>306423</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Power Cycle Off On Duration</N>
+    <V>3 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>208256</ID>
+    <PID>306423</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Power Cycle Settling Time</N>
+    <V>3 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>208259</ID>
+    <PID>306423</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Power Cycle max. Retries for LB Training</N>
+    <V>3</V>
+  </Tbl>
+  <Tbl>
+    <ID>306424</ID>
+    <PID>306422</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Receiver</N>
+    <V>Receiver</V>
+  </Tbl>
+  <Tbl>
+    <ID>306425</ID>
+    <PID>306424</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>303972</ID>
+    <PID>306425</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306426</ID>
+    <PID>306424</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>8.0 GT/s</N>
+    <V>8.0 GT/s</V>
+  </Tbl>
+  <Tbl>
+    <ID>306427</ID>
+    <PID>306426</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>303980</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>208057</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Data Rate Deviation</N>
+    <V>0 ppm</V>
+  </Tbl>
+  <Tbl>
+    <ID>306428</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>DUT Target Preset</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieTransmitterPresetE] P4</V>
+  </Tbl>
+  <Tbl>
+    <ID>208001</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Interactive Training Script File </N>
+    <V>C:\Documents and Settings\All Users\Application Data\Bitifeye\Valiframe\Settings\PCIExpress3\Pcie3_8G_M8020A_ILT_Loopback.txt</V>
+  </Tbl>
+  <Tbl>
+    <ID>208214</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Suppress Loopback Training Messages</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208005</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use CDR</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208014</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>CDR Loop Bandwidth</N>
+    <V>12 MHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>208048</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Peaking</N>
+    <V>1 dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>306429</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Analyzer Equalization</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieAnalyzerEqualizationE] _6dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>208228</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Pause before Auto-Align</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208223</ID>
+    <PID>306427</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Relax Time</N>
+    <V>1 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>306430</ID>
+    <PID>306426</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>CBB rev. 3</N>
+    <V>CBB rev. 3</V>
+  </Tbl>
+  <Tbl>
+    <ID>306431</ID>
+    <PID>306430</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>303988</ID>
+    <PID>306431</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306432</ID>
+    <PID>306430</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Lane0</N>
+    <V>Lane0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306433</ID>
+    <PID>306432</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304005</ID>
+    <PID>306433</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306434</ID>
+    <PID>306433</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Initial Preset</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieTransmitterPresetE] P7</V>
+  </Tbl>
+  <Tbl>
+    <ID>306435</ID>
+    <PID>306433</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>DUT Tx Preset</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieTransmitterPresetE] P4</V>
+  </Tbl>
+  <Tbl>
+    <ID>306436</ID>
+    <PID>306432</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Compliance Test 2.10</N>
+    <V>Compliance Test 2.10</V>
+  </Tbl>
+  <Tbl>
+    <ID>306437</ID>
+    <PID>306436</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306438</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306439</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304064</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304051</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>304040</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Enable Impairments for Link Training</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>304011</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Eye-Height</N>
+    <V>45 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>304014</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Eye-Width</N>
+    <V>40.75 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>304026</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Differential Mode Sinusoidal Interference</N>
+    <V>45.54 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>304023</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Random Jitter</N>
+    <V>1.45 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>304017</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Sinusoidal Jitter</N>
+    <V>12.5 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>304020</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Sinusoidal Jitter Frequency</N>
+    <V>100 MHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>306440</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>BER Mode</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.BerModeE] FixedTime</V>
+  </Tbl>
+  <Tbl>
+    <ID>304030</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>BER Measurement Duration</N>
+    <V>125 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>304033</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Allowed Bit Error</N>
+    <V>1</V>
+  </Tbl>
+  <Tbl>
+    <ID>304036</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Target BER</N>
+    <V>1E-12 </V>
+  </Tbl>
+  <Tbl>
+    <ID>304039</ID>
+    <PID>306437</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Confidence Level</N>
+    <V>63.2 %</V>
+  </Tbl>
+  <Tbl>
+    <ID>306441</ID>
+    <PID>306426</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>CBB rev. 2</N>
+    <V>CBB rev. 2</V>
+  </Tbl>
+  <Tbl>
+    <ID>306442</ID>
+    <PID>306441</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304073</ID>
+    <PID>306442</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306443</ID>
+    <PID>306441</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Lane0</N>
+    <V>Lane0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306444</ID>
+    <PID>306443</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304090</ID>
+    <PID>306444</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306445</ID>
+    <PID>306444</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Initial Preset</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieTransmitterPresetE] P7</V>
+  </Tbl>
+  <Tbl>
+    <ID>306446</ID>
+    <PID>306444</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>DUT Tx Preset</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieTransmitterPresetE] P4</V>
+  </Tbl>
+  <Tbl>
+    <ID>306447</ID>
+    <PID>306443</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Compliance Test 2.10</N>
+    <V>Compliance Test 2.10</V>
+  </Tbl>
+  <Tbl>
+    <ID>306448</ID>
+    <PID>306447</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306449</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306450</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304149</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304136</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>304125</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Enable Impairments for Link Training</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>304096</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Eye-Height</N>
+    <V>45 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>304099</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Eye-Width</N>
+    <V>40.75 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>304111</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Differential Mode Sinusoidal Interference</N>
+    <V>31.93 mV</V>
+  </Tbl>
+  <Tbl>
+    <ID>304108</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Random Jitter</N>
+    <V>500 fs</V>
+  </Tbl>
+  <Tbl>
+    <ID>304102</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Sinusoidal Jitter</N>
+    <V>12.5 ps</V>
+  </Tbl>
+  <Tbl>
+    <ID>304105</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Sinusoidal Jitter Frequency</N>
+    <V>100 MHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>306451</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>BER Mode</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.BerModeE] FixedTime</V>
+  </Tbl>
+  <Tbl>
+    <ID>304115</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>BER Measurement Duration</N>
+    <V>125 s</V>
+  </Tbl>
+  <Tbl>
+    <ID>304118</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Allowed Bit Error</N>
+    <V>1</V>
+  </Tbl>
+  <Tbl>
+    <ID>304121</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Target BER</N>
+    <V>1E-12 </V>
+  </Tbl>
+  <Tbl>
+    <ID>304124</ID>
+    <PID>306448</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Confidence Level</N>
+    <V>63.2 %</V>
+  </Tbl>
+  <Tbl>
+    <ID>306452</ID>
+    <PID>306422</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Transmitter</N>
+    <V>Transmitter</V>
+  </Tbl>
+  <Tbl>
+    <ID>306453</ID>
+    <PID>306452</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304158</ID>
+    <PID>306453</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306454</ID>
+    <PID>306452</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>8.0 GT/s</N>
+    <V>8.0 GT/s</V>
+  </Tbl>
+  <Tbl>
+    <ID>306455</ID>
+    <PID>306454</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304166</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>208057</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Data Rate Deviation</N>
+    <V>0 ppm</V>
+  </Tbl>
+  <Tbl>
+    <ID>306456</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Generator Start Preset</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieTransmitterPresetE] P7</V>
+  </Tbl>
+  <Tbl>
+    <ID>208000</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>Link EQ Tx Test Script File</N>
+    <V>C:\Documents and Settings\All Users\Application Data\Bitifeye\Valiframe\Settings\PCIExpress3\Pcie3_8G_M8020A_EqTx_Loopback.txt</V>
+  </Tbl>
+  <Tbl>
+    <ID>208214</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Suppress Loopback Training Messages</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>208005</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use CDR</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>208014</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>CDR Loop Bandwidth</N>
+    <V>12 MHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>208048</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Peaking</N>
+    <V>1 dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>306457</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Analyzer Equalization</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.PcieAnalyzerEqualizationE] _6dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>208228</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Pause before Auto-Align</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306458</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>EQ Preset Measurement</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.EqPresetTesterE] SigTest</V>
+  </Tbl>
+  <Tbl>
+    <ID>208234</ID>
+    <PID>306455</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Scope Sampling Rate</N>
+    <V>40 GSa/s</V>
+  </Tbl>
+  <Tbl>
+    <ID>306459</ID>
+    <PID>306454</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>CBB rev. 3</N>
+    <V>CBB rev. 3</V>
+  </Tbl>
+  <Tbl>
+    <ID>306460</ID>
+    <PID>306459</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304174</ID>
+    <PID>306460</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306461</ID>
+    <PID>306459</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Lane0</N>
+    <V>Lane0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306462</ID>
+    <PID>306461</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304182</ID>
+    <PID>306462</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306463</ID>
+    <PID>306461</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Compliance Test 2.3</N>
+    <V>Compliance Test 2.3</V>
+  </Tbl>
+  <Tbl>
+    <ID>306464</ID>
+    <PID>306463</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306465</ID>
+    <PID>306464</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306466</ID>
+    <PID>306464</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304206</ID>
+    <PID>306464</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304193</ID>
+    <PID>306464</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306467</ID>
+    <PID>306461</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Compliance Test 2.4</N>
+    <V>Compliance Test 2.4</V>
+  </Tbl>
+  <Tbl>
+    <ID>306468</ID>
+    <PID>306467</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306469</ID>
+    <PID>306468</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306470</ID>
+    <PID>306468</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304238</ID>
+    <PID>306468</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304225</ID>
+    <PID>306468</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>304212</ID>
+    <PID>306468</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Max Number of Retries</N>
+    <V>1</V>
+  </Tbl>
+  <Tbl>
+    <ID>304215</ID>
+    <PID>306468</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Scope Visible Range</N>
+    <V>10 us</V>
+  </Tbl>
+  <Tbl>
+    <ID>304216</ID>
+    <PID>306468</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Use CTLE</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306471</ID>
+    <PID>306468</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>CTLE DC Gain</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.Pcie3CtleDcGainE] _6dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>306472</ID>
+    <PID>306351</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Transmitter</N>
+    <V>Transmitter</V>
+  </Tbl>
+  <Tbl>
+    <ID>306473</ID>
+    <PID>306472</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304270</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304256</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Number of UI</N>
+    <V>1000000</V>
+  </Tbl>
+  <Tbl>
+    <ID>306474</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Noise Reduction BW</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.NoiseReductionBandwidthE] Automatic</V>
+  </Tbl>
+  <Tbl>
+    <ID>304246</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Signal Check</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>304259</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>Deembed Fixture</N>
+    <V>0 dB</V>
+  </Tbl>
+  <Tbl>
+    <ID>306475</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>InfiniiSim Channel 1 State</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.InfiniiSimChannelSettings+StateE] Off</V>
+  </Tbl>
+  <Tbl>
+    <ID>306476</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>InfiniiSim Channel 1 Port Extraction</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.InfiniiSimChannelSettings+PortExtractionE] Differential</V>
+  </Tbl>
+  <Tbl>
+    <ID>226</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>InfiniiSim Channel 1 Bandwidth Limit Enabled</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>229</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>InfiniiSim Channel 1 Bandwidth Limit</N>
+    <V>12 GHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>232</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>InfiniiSim Channel 1 Max Time Span</N>
+    <V>10 ns</V>
+  </Tbl>
+  <Tbl>
+    <ID>233</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>InfiniiSim Channel 1 Transfer Function File Path</N>
+    <V>C:\Filters\DoNothing.tf2</V>
+  </Tbl>
+  <Tbl>
+    <ID>234</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>InfiniiSim Channel 1 Include Delay</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>237</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>InfiniiSim Channel 1 Response Correction Percentage</N>
+    <V>100</V>
+  </Tbl>
+  <Tbl>
+    <ID>306477</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>InfiniiSim Channel 2 State</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.InfiniiSimChannelSettings+StateE] Off</V>
+  </Tbl>
+  <Tbl>
+    <ID>306478</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>InfiniiSim Channel 2 Port Extraction</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.InfiniiSimChannelSettings+PortExtractionE] Differential</V>
+  </Tbl>
+  <Tbl>
+    <ID>240</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>InfiniiSim Channel 2 Bandwidth Limit Enabled</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>243</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>InfiniiSim Channel 2 Bandwidth Limit</N>
+    <V>12 GHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>246</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>InfiniiSim Channel 2 Max Time Span</N>
+    <V>10 ns</V>
+  </Tbl>
+  <Tbl>
+    <ID>247</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>InfiniiSim Channel 2 Transfer Function File Path</N>
+    <V>C:\Filters\DoNothing.tf2</V>
+  </Tbl>
+  <Tbl>
+    <ID>248</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>InfiniiSim Channel 2 Include Delay</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>251</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>InfiniiSim Channel 2 Response Correction Percentage</N>
+    <V>100</V>
+  </Tbl>
+  <Tbl>
+    <ID>306479</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>InfiniiSim Channel 3 State</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.InfiniiSimChannelSettings+StateE] Off</V>
+  </Tbl>
+  <Tbl>
+    <ID>306480</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>InfiniiSim Channel 3 Port Extraction</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.InfiniiSimChannelSettings+PortExtractionE] Differential</V>
+  </Tbl>
+  <Tbl>
+    <ID>254</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>InfiniiSim Channel 3 Bandwidth Limit Enabled</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>257</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>InfiniiSim Channel 3 Bandwidth Limit</N>
+    <V>12 GHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>260</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>InfiniiSim Channel 3 Max Time Span</N>
+    <V>10 ns</V>
+  </Tbl>
+  <Tbl>
+    <ID>261</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>InfiniiSim Channel 3 Transfer Function File Path</N>
+    <V>C:\Filters\DoNothing.tf2</V>
+  </Tbl>
+  <Tbl>
+    <ID>262</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>InfiniiSim Channel 3 Include Delay</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>265</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>InfiniiSim Channel 3 Response Correction Percentage</N>
+    <V>100</V>
+  </Tbl>
+  <Tbl>
+    <ID>306481</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>InfiniiSim Channel 4 State</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.InfiniiSimChannelSettings+StateE] Off</V>
+  </Tbl>
+  <Tbl>
+    <ID>306482</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>InfiniiSim Channel 4 Port Extraction</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Instruments.InfiniiSimChannelSettings+PortExtractionE] Differential</V>
+  </Tbl>
+  <Tbl>
+    <ID>268</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>InfiniiSim Channel 4 Bandwidth Limit Enabled</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>271</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>InfiniiSim Channel 4 Bandwidth Limit</N>
+    <V>12 GHz</V>
+  </Tbl>
+  <Tbl>
+    <ID>274</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFValue</T>
+    <N>InfiniiSim Channel 4 Max Time Span</N>
+    <V>10 ns</V>
+  </Tbl>
+  <Tbl>
+    <ID>275</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFString</T>
+    <N>InfiniiSim Channel 4 Transfer Function File Path</N>
+    <V>C:\Filters\DoNothing.tf2</V>
+  </Tbl>
+  <Tbl>
+    <ID>276</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>InfiniiSim Channel 4 Include Delay</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>279</ID>
+    <PID>306473</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>InfiniiSim Channel 4 Response Correction Percentage</N>
+    <V>100</V>
+  </Tbl>
+  <Tbl>
+    <ID>306483</ID>
+    <PID>306472</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>8.0 GT/s</N>
+    <V>8.0 GT/s</V>
+  </Tbl>
+  <Tbl>
+    <ID>306484</ID>
+    <PID>306483</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304278</ID>
+    <PID>306484</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306485</ID>
+    <PID>306484</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Sample Rate</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.SampleRateE] _40_G</V>
+  </Tbl>
+  <Tbl>
+    <ID>306486</ID>
+    <PID>306484</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Connection Type</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.ConnectionE] Chan_1_3_Direct_Connect</V>
+  </Tbl>
+  <Tbl>
+    <ID>306487</ID>
+    <PID>306484</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Preset Test Connection Type</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.SerialBusProducts.PciExpress3Product.ConnectionE] Chan_1_3_Direct_Connect</V>
+  </Tbl>
+  <Tbl>
+    <ID>306488</ID>
+    <PID>306483</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Lane0</N>
+    <V>Lane0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306489</ID>
+    <PID>306488</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304286</ID>
+    <PID>306489</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306490</ID>
+    <PID>306488</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Preset Compliance Tests 2.2</N>
+    <V>Preset Compliance Tests 2.2</V>
+  </Tbl>
+  <Tbl>
+    <ID>306491</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304294</ID>
+    <PID>306491</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306492</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>De-emphasis Preset #0 </N>
+    <V>De-emphasis Preset #0 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306493</ID>
+    <PID>306492</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306494</ID>
+    <PID>306493</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306495</ID>
+    <PID>306493</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304312</ID>
+    <PID>306493</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304299</ID>
+    <PID>306493</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306496</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>De-emphasis Preset #1 </N>
+    <V>De-emphasis Preset #1 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306497</ID>
+    <PID>306496</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306498</ID>
+    <PID>306497</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306499</ID>
+    <PID>306497</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304350</ID>
+    <PID>306497</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304337</ID>
+    <PID>306497</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306500</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>De-emphasis Preset #2 </N>
+    <V>De-emphasis Preset #2 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306501</ID>
+    <PID>306500</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306502</ID>
+    <PID>306501</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306503</ID>
+    <PID>306501</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304388</ID>
+    <PID>306501</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304375</ID>
+    <PID>306501</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306504</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>De-emphasis Preset #3 </N>
+    <V>De-emphasis Preset #3 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306505</ID>
+    <PID>306504</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306506</ID>
+    <PID>306505</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306507</ID>
+    <PID>306505</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304426</ID>
+    <PID>306505</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304413</ID>
+    <PID>306505</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306508</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Preshoot Preset #5 </N>
+    <V>Preshoot Preset #5 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306509</ID>
+    <PID>306508</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306510</ID>
+    <PID>306509</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306511</ID>
+    <PID>306509</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304464</ID>
+    <PID>306509</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304451</ID>
+    <PID>306509</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306512</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Preshoot Preset #6 </N>
+    <V>Preshoot Preset #6 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306513</ID>
+    <PID>306512</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306514</ID>
+    <PID>306513</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306515</ID>
+    <PID>306513</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304502</ID>
+    <PID>306513</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304489</ID>
+    <PID>306513</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306516</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Preshoot Preset #7 </N>
+    <V>Preshoot Preset #7 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306517</ID>
+    <PID>306516</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306518</ID>
+    <PID>306517</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306519</ID>
+    <PID>306517</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304540</ID>
+    <PID>306517</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304527</ID>
+    <PID>306517</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306520</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>De-emphasis Preset #7 </N>
+    <V>De-emphasis Preset #7 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306521</ID>
+    <PID>306520</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306522</ID>
+    <PID>306521</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306523</ID>
+    <PID>306521</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304578</ID>
+    <PID>306521</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304565</ID>
+    <PID>306521</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306524</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Preshoot Preset #8 </N>
+    <V>Preshoot Preset #8 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306525</ID>
+    <PID>306524</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306526</ID>
+    <PID>306525</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306527</ID>
+    <PID>306525</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304616</ID>
+    <PID>306525</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304603</ID>
+    <PID>306525</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306528</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>De-emphasis Preset #8 </N>
+    <V>De-emphasis Preset #8 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306529</ID>
+    <PID>306528</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306530</ID>
+    <PID>306529</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306531</ID>
+    <PID>306529</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304654</ID>
+    <PID>306529</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304641</ID>
+    <PID>306529</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306532</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Preshoot Preset #9 </N>
+    <V>Preshoot Preset #9 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306533</ID>
+    <PID>306532</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306534</ID>
+    <PID>306533</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306535</ID>
+    <PID>306533</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304692</ID>
+    <PID>306533</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304679</ID>
+    <PID>306533</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306536</ID>
+    <PID>306490</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>De-emphasis Preset #10 </N>
+    <V>De-emphasis Preset #10 </V>
+  </Tbl>
+  <Tbl>
+    <ID>306537</ID>
+    <PID>306536</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306538</ID>
+    <PID>306537</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306539</ID>
+    <PID>306537</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304730</ID>
+    <PID>306537</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304717</ID>
+    <PID>306537</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306540</ID>
+    <PID>306488</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Electrical Compliance Tests 2.1</N>
+    <V>Electrical Compliance Tests 2.1</V>
+  </Tbl>
+  <Tbl>
+    <ID>306541</ID>
+    <PID>306540</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>304758</ID>
+    <PID>306541</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>306542</ID>
+    <PID>306540</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Unit Interval </N>
+    <V>Unit Interval </V>
+  </Tbl>
+  <Tbl>
+    <ID>306543</ID>
+    <PID>306542</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306544</ID>
+    <PID>306543</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306545</ID>
+    <PID>306543</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304776</ID>
+    <PID>306543</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304763</ID>
+    <PID>306543</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306546</ID>
+    <PID>306540</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Template Tests </N>
+    <V>Template Tests </V>
+  </Tbl>
+  <Tbl>
+    <ID>306547</ID>
+    <PID>306546</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306548</ID>
+    <PID>306547</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306549</ID>
+    <PID>306547</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304814</ID>
+    <PID>306547</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304801</ID>
+    <PID>306547</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306550</ID>
+    <PID>306540</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Eye-Width </N>
+    <V>Eye-Width </V>
+  </Tbl>
+  <Tbl>
+    <ID>306551</ID>
+    <PID>306550</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306552</ID>
+    <PID>306551</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306553</ID>
+    <PID>306551</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304852</ID>
+    <PID>306551</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304839</ID>
+    <PID>306551</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306554</ID>
+    <PID>306540</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Peak Differential Output Voltage </N>
+    <V>Peak Differential Output Voltage </V>
+  </Tbl>
+  <Tbl>
+    <ID>306555</ID>
+    <PID>306554</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Properties</N>
+    <V>Properties</V>
+  </Tbl>
+  <Tbl>
+    <ID>306556</ID>
+    <PID>306555</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Error Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>306557</ID>
+    <PID>306555</PID>
+    <T>BitifEye.ValiFrame.Base.VFGenericEnum</T>
+    <N>Procedure Failed Case Behavior</N>
+    <V>BitifEye.ValiFrame.Base.VFEnum`1[BitifEye.ValiFrame.Sequence.ProblemBehavior] Proceed_With_Next_Procedure</V>
+  </Tbl>
+  <Tbl>
+    <ID>304890</ID>
+    <PID>306555</PID>
+    <T>BitifEye.ValiFrame.Base.VFInteger</T>
+    <N>Repetitions</N>
+    <V>0</V>
+  </Tbl>
+  <Tbl>
+    <ID>304877</ID>
+    <PID>306555</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>Offline</N>
+    <V>True</V>
+  </Tbl>
+  <Tbl>
+    <ID>306319</ID>
+    <PID>306302</PID>
+    <T>BitifEye.ValiFrame.Base.VFObjectList</T>
+    <N>Selected Procedures</N>
+    <V>Selected Procedures</V>
+  </Tbl>
+  <Tbl>
+    <ID>306320</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>309629</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306321</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>309630</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306322</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>309620</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306323</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>309621</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306324</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>309622</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306325</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>309623</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306326</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>309625</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306327</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>309626</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306328</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>309627</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306329</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>328820</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306330</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>328821</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306331</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>328831</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306332</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>328811</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306333</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367234</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306334</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367235</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306335</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367280</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306336</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367281</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306337</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367282</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306338</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367283</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306339</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367284</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306340</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367285</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306341</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367286</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306342</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367287</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306343</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367288</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306344</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367289</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306345</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367290</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306346</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367291</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306347</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367260</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306348</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367261</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306349</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367262</N>
+    <V>False</V>
+  </Tbl>
+  <Tbl>
+    <ID>306350</ID>
+    <PID>306319</PID>
+    <T>BitifEye.ValiFrame.Base.VFBoolean</T>
+    <N>367263</N>
+    <V>False</V>
+  </Tbl>
+</NewDataSet>
